@@ -1,0 +1,5 @@
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\delegatez\delegatez\bin\Debug\delegatez.exe.config
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\delegatez\delegatez\bin\Debug\delegatez.exe
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\delegatez\delegatez\bin\Debug\delegatez.pdb
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\delegatez\delegatez\obj\Debug\delegatez.exe
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\delegatez\delegatez\obj\Debug\delegatez.pdb
